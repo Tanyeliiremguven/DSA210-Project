@@ -4,6 +4,7 @@ Step Count Analysis During Exam Periods
 MOTIVATION
 
 This project aims to analyze my step count and how it gets affected during my exam dates by comparing the step count on exam days, before exam days, and after exam days. 
+
 Since I live on campus, I mostly go anywhere on foot. (such as my room, faculty classes, dining hall, etc.) So, there will be specific patterns in my daily step count changes in my exam periods since my physical activities decline in that period. The goal is to analyze my step count during my exam days and regular days and examine how stress levels and time constraints in my exam periods affect my physical activity patterns.
 
 
